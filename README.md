@@ -1,4 +1,4 @@
-## KOSPO AI Challenge(~2025/02/14)
+## R&D : KOSPO AI Challenge(~2025/02/14)
 
 REC 거래 최적화 AI 모델 학습
 
