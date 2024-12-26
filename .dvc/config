@@ -1,0 +1,4 @@
+[core]
+    remote = ai_storage
+['remote "ai_storage"']
+    url = Z:\\DESKTOP-T5PDD9T\data_storage
